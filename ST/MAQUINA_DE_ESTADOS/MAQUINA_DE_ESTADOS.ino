@@ -1,4 +1,4 @@
-//Grupo1_Kalik_Mofsovich_Chames_Burbinski
+//Grupo6_Kalik_Mofsovich_Chames_Burbinski
 
 //Librerias
 #include <Wire.h>
